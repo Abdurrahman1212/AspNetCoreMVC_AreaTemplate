@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdurrahman\\Desktop\\AspNetCoreMVC_AreaTemplate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6F50C5-8FDF-4BCB-8C17-32243A103375}|AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate.csproj|c:\\users\\abdurrahman\\desktop\\aspnetcoremvc_areatemplate\\aspnetcoremvc_areatemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6F50C5-8FDF-4BCB-8C17-32243A103375}|AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate.csproj|solutionrelative:aspnetcoremvc_areatemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6F50C5-8FDF-4BCB-8C17-32243A103375}|AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate.csproj|c:\\users\\abdurrahman\\desktop\\aspnetcoremvc_areatemplate\\aspnetcoremvc_areatemplate\\areas\\dashboard\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6F50C5-8FDF-4BCB-8C17-32243A103375}|AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate.csproj|solutionrelative:aspnetcoremvc_areatemplate\\areas\\dashboard\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6F50C5-8FDF-4BCB-8C17-32243A103375}|AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate.csproj|c:\\users\\abdurrahman\\desktop\\aspnetcoremvc_areatemplate\\aspnetcoremvc_areatemplate\\areas\\dashboard\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F6F50C5-8FDF-4BCB-8C17-32243A103375}|AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate.csproj|solutionrelative:aspnetcoremvc_areatemplate\\areas\\dashboard\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6F50C5-8FDF-4BCB-8C17-32243A103375}|AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate.csproj|c:\\users\\abdurrahman\\desktop\\aspnetcoremvc_areatemplate\\aspnetcoremvc_areatemplate\\areas\\dashboard\\views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F6F50C5-8FDF-4BCB-8C17-32243A103375}|AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate.csproj|solutionrelative:aspnetcoremvc_areatemplate\\areas\\dashboard\\views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6F50C5-8FDF-4BCB-8C17-32243A103375}|AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate.csproj|c:\\users\\abdurrahman\\desktop\\aspnetcoremvc_areatemplate\\aspnetcoremvc_areatemplate\\areas\\dashboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6F50C5-8FDF-4BCB-8C17-32243A103375}|AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate.csproj|solutionrelative:aspnetcoremvc_areatemplate\\areas\\dashboard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6F50C5-8FDF-4BCB-8C17-32243A103375}|AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate.csproj|c:\\users\\abdurrahman\\desktop\\aspnetcoremvc_areatemplate\\aspnetcoremvc_areatemplate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6F50C5-8FDF-4BCB-8C17-32243A103375}|AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate.csproj|solutionrelative:aspnetcoremvc_areatemplate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6F50C5-8FDF-4BCB-8C17-32243A103375}|AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate.csproj|c:\\users\\abdurrahman\\desktop\\aspnetcoremvc_areatemplate\\aspnetcoremvc_areatemplate\\areas\\dashboard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F6F50C5-8FDF-4BCB-8C17-32243A103375}|AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate.csproj|solutionrelative:aspnetcoremvc_areatemplate\\areas\\dashboard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6F50C5-8FDF-4BCB-8C17-32243A103375}|AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate.csproj|c:\\users\\abdurrahman\\desktop\\aspnetcoremvc_areatemplate\\aspnetcoremvc_areatemplate\\models\\context\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6F50C5-8FDF-4BCB-8C17-32243A103375}|AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate.csproj|solutionrelative:aspnetcoremvc_areatemplate\\models\\context\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6F50C5-8FDF-4BCB-8C17-32243A103375}|AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate.csproj|c:\\users\\abdurrahman\\desktop\\aspnetcoremvc_areatemplate\\aspnetcoremvc_areatemplate\\areas\\dashboard\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F6F50C5-8FDF-4BCB-8C17-32243A103375}|AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate.csproj|solutionrelative:aspnetcoremvc_areatemplate\\areas\\dashboard\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6F50C5-8FDF-4BCB-8C17-32243A103375}|AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate.csproj|c:\\users\\abdurrahman\\desktop\\aspnetcoremvc_areatemplate\\aspnetcoremvc_areatemplate\\models\\context\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6F50C5-8FDF-4BCB-8C17-32243A103375}|AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate.csproj|solutionrelative:aspnetcoremvc_areatemplate\\models\\context\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdurrahman\\Desktop\\AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Abdurrahman\\Desktop\\AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:55:08.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abdurrahman\\Desktop\\AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Abdurrahman\\Desktop\\AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T12:55:45.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abdurrahman\\Desktop\\AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Views\\Shared\\_Dashboard.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Views\\Shared\\_Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Abdurrahman\\Desktop\\AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Views\\Shared\\_Dashboard.cshtml",
+              "RelativeToolTip": "AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Views\\Shared\\_Dashboard.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T12:53:44.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Abdurrahman\\Desktop\\AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate\\Models\\Context\\Product.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMVC_AreaTemplate\\Models\\Context\\Product.cs",
+              "ToolTip": "C:\\Users\\Abdurrahman\\Desktop\\AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate\\Models\\Context\\Product.cs",
+              "RelativeToolTip": "AspNetCoreMVC_AreaTemplate\\Models\\Context\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:43:59.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abdurrahman\\Desktop\\AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Abdurrahman\\Desktop\\AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T12:43:59.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abdurrahman\\Desktop\\AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Abdurrahman\\Desktop\\AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T12:43:59.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdurrahman\\Desktop\\AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Abdurrahman\\Desktop\\AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AspNetCoreMVC_AreaTemplate\\Areas\\Dashboard\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:43:59.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdurrahman\\Desktop\\AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMVC_AreaTemplate\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Abdurrahman\\Desktop\\AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AspNetCoreMVC_AreaTemplate\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:43:59.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abdurrahman\\Desktop\\AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMVC_AreaTemplate\\Program.cs",
+              "ToolTip": "C:\\Users\\Abdurrahman\\Desktop\\AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate\\Program.cs",
+              "RelativeToolTip": "AspNetCoreMVC_AreaTemplate\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:43:59.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\Abdurrahman\\Desktop\\AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate\\Models\\Context\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "AspNetCoreMVC_AreaTemplate\\Models\\Context\\NorthwindContext.cs",
+              "ToolTip": "C:\\Users\\Abdurrahman\\Desktop\\AspNetCoreMVC_AreaTemplate\\AspNetCoreMVC_AreaTemplate\\Models\\Context\\NorthwindContext.cs",
+              "RelativeToolTip": "AspNetCoreMVC_AreaTemplate\\Models\\Context\\NorthwindContext.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAA7wE0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:43:59.956Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
